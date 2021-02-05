@@ -1,0 +1,7 @@
+jobs:
+  a:
+    description: "Print a"
+  b:
+    description: "Print b"
+  c:
+    description: "Print c"
